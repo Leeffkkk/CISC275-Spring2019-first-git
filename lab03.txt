@@ -1,0 +1,95 @@
+For this assignment you will be using version control, which is necessary to work effectively in a team.
+
+
+
+"What is version control, and/or what is Git?" Read: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control (Links to an external site.) 
+
+
+
+For this assignment you will follow the instructions at the above link to: 
+- Set up git on your machine (https://git-scm.com) See Chapter 1 of the linked text.
+
+
+- Establish a directory to play in, and initialize it. Having a play space is very important. When you aren't sure exactly what something does in git, you can go to your play directory and test things there.
+
+
+- Read Chapter 2. Play with add, commit, status, diff, diff --staged, reset, log.
+
+
+- In your play directory, create four files. Make is so that: one is untracked; one is modified; one is staged; one is in the repo. Verify the state of your four files and ask another person to confirm you have those four files in four states.
+
+
+
+In this space, type the sequence of commands you used to achieve the final state of all four files:
+
+
+
+
+
+
+	{
+	create repo.txt
+	git add repo.txt
+	git commit -m "commit only repo.txt"
+	
+	create untracked.txt
+	
+	create modified.txt
+	git add modified.txt
+	edit & save modified.txt
+	
+	create staged.txt
+	git add staged.txt
+	}
+
+%%%%%%%%%%%%%%% Working with GitHub %%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+- Create a Github account  (at www.github.com (Links to an external site.)), write down your username below.
+
+
+
+	My username: Leeffkkk
+
+- Clone this repository to your local machine: https://github.com/mehak25/CISC275-Spring2019-first-git (DO NOT FORK IT)
+
+
+
+Create an empty repository under your GitHub account and name it "CISC275-Spring2019-first-git".
+
+Paste the URL of your repository here:
+
+
+
+	My URL: https://github.com/Leeffkkk/CISC275-Spring2019-first-git.git
+
+Back in your machine, create a new local repository:
+
+
+- Create file named your <FirstInitial><LastName>.txt. Write your username and URL to your GitHub repository created in previous steps in the file. Upload this file on canvas.
+
+
+
+- Add file to the new local repo
+
+
+
+- Add MyCompare3 and your java files as specified in the README.
+
+
+
+- Answer the questions 2 and 3 in the README file (write answers in the file itself) and add file to your local repo.
+
+
+
+- Commit local changes 
+
+
+- Push commit to master branch of your GitHub repo
+
+
+- Upload the file <FirstInitial><LastName>.txt on canvas with details of your username and URL to your GitHub repository created in previous steps.
+ 
+
